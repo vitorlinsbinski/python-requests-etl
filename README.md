@@ -76,6 +76,11 @@ To ensure a clean and isolated environment for running the project, follow these
 ## 🚀 Usage
 
 1. 🔑 Replace your GitHub Access Token in the `access_token` attribute of the `DadosRepositorios` and `ManipulaRepositorios` classes.
+"""
+Observations:
+- Before running the script, ensure to replace the placeholder values for the username, repository name, and company names with actual values.
+- The script interacts with GitHub's API, so make sure you have the necessary permissions and API tokens configured.
+"""
 2. ▶️ Run the extract script:
 ```bash
    python scripts/extraindo_dados.py
