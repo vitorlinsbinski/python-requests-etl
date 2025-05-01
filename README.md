@@ -79,6 +79,7 @@ To ensure a clean and isolated environment for running the project, follow these
 2. ▶️ Run the extract script:
 ```bash
    python scripts/extraindo_dados.py
+```
 3. ▶️ Run the upload script:
 ```bash
    python scripts/enviando_dados.py
